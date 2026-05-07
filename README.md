@@ -1,0 +1,1 @@
+# gdg_equipment_app
